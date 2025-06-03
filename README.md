@@ -37,10 +37,10 @@ Yamaha YBR
 Honda Titan
 
 ## Autor
-Nicolás Carrizo
-Estudiante de Programación Orientada a Objetos
-[carrizonicolasd8@email.com]
-Buenos Aires, Argentina
+  Nicolás Carrizo
+  Estudiante de Programación Orientada a Objetos
+  [carrizonicolasd8@email.com]
+  Buenos Aires, Argentina
 
 
 ¡Contactame para adaptarlo a tu caso particular!
