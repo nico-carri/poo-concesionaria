@@ -26,22 +26,31 @@ Proyecto Java orientado a objetos que simula una concesionaria de vehículos (au
 
 ## Ejemplo de salida
 
-Vehículo más caro: Peugeot 208
+Vehículo más caro: Peugeot 208 
+
 Vehículo más barato: Honda Titan
+
 Vehículos que contienen la letra ‘Y’: Yamaha YBR
 
 Vehículos ordenados por precio (descendente):
+
 Peugeot 208
+
 Peugeot 206
+
 Yamaha YBR
+
 Honda Titan
 
 ## Autor
-  Nicolás Carrizo
-  Estudiante de Programación Orientada a Objetos
-  [carrizonicolasd8@email.com]
-  Buenos Aires, Argentina
 
+Nicolás Carrizo
+
+Estudiante de Programación Orientada a Objetos
+
+[carrizonicolasd8@email.com]
+  
+Buenos Aires, Argentina
 
 ¡Contactame para adaptarlo a tu caso particular!
 
